@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "react-native-tutorial",
+        "url": "https://www.tutorialspoint.com/react_native/react_native_tutorial.pdf"
+    },
+    {
+        "id": 2,
+        "name": "android-tutorial",
+        "url": "https://www.tutorialspoint.com/android/android_tutorial.pdf"
+    },
+    {
+        "id": 3,
+        "name": "react-js-tutorial",
+        "url": "https://riptutorial.com/Download/react.pdf"
+    },
+    {
+        "id": 4,
+        "name": "pyhton-tutorial",
+        "url": "https://www.tutorialspoint.com/python3/python_tutorial.pdf"
+    },
+    {
+        "id": 5,
+        "name": "java-tutorial",
+        "url": "https://www.tutorialspoint.com/java/java_tutorial.pdf"
+    },
+    {
+        "id": 6,
+        "name": "javascript-tutorial",
+        "url": "https://www.tutorialspoint.com/javascript/javascript_tutorial.pdf"
+    },
+    {
+        "id": 7,
+        "name": "wordpress-tutorial",
+        "url": "https://www.tutorialspoint.com/wordpress/index.htm"
+    },
+    {
+        "id": 8,
+        "name": "magento-tutorial",
+        "url": "https://www.tutorialspoint.com/magento/magento_tutorial.pdf"
+    }
+]
